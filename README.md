@@ -51,4 +51,4 @@ The following parameter's value can be changed in the config.py file during the 
 
 After we have set the config values in config.py file for the different parameters mentioned above, we can run the code using the steps mentioned in the beginning of this document.
 
-**Note:** We  have created one images folder named "experiment-results-images" which is also checked-in here. This contains all the images for results for all our experiments carried out for this project
+**Note:** We  have created one images folder named "experiment-results-images" which is also checked-in here. This contains all the images for results for all our experiments carried out for this project.
